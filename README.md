@@ -51,6 +51,6 @@ http://127.0.0.1:5000
  
 👨‍💻 Author
 
-Created by: Khushi Pandey
+Created by: Khushi Pandey  | 
 GitHub: https://github.com/khushi123438
 
